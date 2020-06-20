@@ -10028,7 +10028,7 @@ hr.light {
 }
 
 .page-section {
-  padding: 8rem 0;
+  /*padding: 8rem 0;*/
 }
 
 #mainNav {
@@ -10096,7 +10096,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: url("../assets/img/head.webp");
+  background: url("../assets/img/head.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
